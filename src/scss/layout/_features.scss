@@ -58,6 +58,10 @@
         @include shadow;
         mix-blend-mode: multiply;
     }
+
+    img {
+        height: 80px;
+    }
 }
 
 .feature-title {
