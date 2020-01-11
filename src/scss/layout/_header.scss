@@ -42,6 +42,12 @@
     }
 }
 
+.header-brand {
+   img {
+       height: 67px;
+   }
+}
+
 @include media( '>medium' ) {
 
     .site-header {
